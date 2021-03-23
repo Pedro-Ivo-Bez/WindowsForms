@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Pedro Ivo\Documents\ESTUDOS\SENAI\Windows Forms\atvWindowsForms2\WindowsForms\Form3.cs" Link="Form3.cs" />
+  </ItemGroup>
+
 </Project>
